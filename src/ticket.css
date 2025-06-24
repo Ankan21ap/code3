@@ -1,0 +1,10 @@
+.Ticket {
+  border: 2px solid black;
+  border-radius: 10px;
+  width: 25%;
+  font-size: 5rem;
+  display: flex;
+  justify-content: center;
+  justify-self: center;
+  margin: 20px;
+}
